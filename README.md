@@ -6,7 +6,7 @@ Delighted and glad to present my Power BI project Telecom Domain which is a part
 AtliQo Telecom is a major telecom player that provides telecom services across India. Currently the company has introduced 5G and thus want to compare their performance before and after implementation of 5G. The Management has outsourced the task for data analysis to ensure they undertake calculated data driven decisions. 
 
 ## Live Dashboard link
-(Live Dashboard)[https://app.powerbi.com/view?r=eyJrIjoiZGI5ZmRjNzAtYTY1YS00MGE4LWE1MjQtZjFiMjI4YmRlMDhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGI5ZmRjNzAtYTY1YS00MGE4LWE1MjQtZjFiMjI4YmRlMDhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
  ## 𝗞𝗲𝘆 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 presented in the Dashboard:-
 💰 Total Revenue
